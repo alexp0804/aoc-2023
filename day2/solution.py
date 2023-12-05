@@ -5,7 +5,7 @@ if len(sys.argv) != 2:
     print(f'Usage: python3 solution.py input_file_name')
     exit(1)
 
-input_file_name = sys.argv[1];
+input_file_name = sys.argv[1]
 
 games = []
 
